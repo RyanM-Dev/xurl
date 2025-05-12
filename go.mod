@@ -1,4 +1,4 @@
-module xurl
+module github.com/RyanM-Dev/xurl
 
 go 1.21
 
