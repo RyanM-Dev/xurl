@@ -19,9 +19,9 @@ import (
 	"strings"
 	"time"
 
-	"xurl/config"
-	xurlErrors "xurl/errors"
-	"xurl/store"
+	"github.com/RyanM-Dev/xurl/config"
+	xurlErrors "github.com/RyanM-Dev/xurl/errors"
+	"github.com/RyanM-Dev/xurl/store"
 
 	"runtime"
 

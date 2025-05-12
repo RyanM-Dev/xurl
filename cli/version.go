@@ -5,7 +5,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"xurl/version"
+	"github.com/RyanM-Dev/xurl/version"
 )
 
 // CreateVersionCommand creates the version command

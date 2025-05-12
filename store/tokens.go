@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"xurl/errors"
+	"github.com/RyanM-Dev/xurl/errors"
 
 	"gopkg.in/yaml.v3"
 )

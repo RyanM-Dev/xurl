@@ -11,13 +11,13 @@ import (
 	"time"
 
 	"bufio"
+	"github.com/RyanM-Dev/xurl/auth"
+	"github.com/RyanM-Dev/xurl/config"
+	xurlErrors "github.com/RyanM-Dev/xurl/errors"
+	"github.com/RyanM-Dev/xurl/version"
 	"mime/multipart"
 	"os"
 	"path/filepath"
-	"xurl/auth"
-	"xurl/config"
-	xurlErrors "xurl/errors"
-	"xurl/version"
 )
 
 // RequestOptions contains common options for API requests

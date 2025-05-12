@@ -6,9 +6,9 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"xurl/api"
-	"xurl/auth"
-	"xurl/config"
+	"github.com/RyanM-Dev/xurl/api"
+	"github.com/RyanM-Dev/xurl/auth"
+	"github.com/RyanM-Dev/xurl/config"
 )
 
 // CreateMediaCommand creates the media command and its subcommands
